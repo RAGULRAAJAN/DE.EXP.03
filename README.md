@@ -38,17 +38,38 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: RAGUL RAAJAN T
+RegisterNumber:23007752  
 */
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+### CODE:
+ ### HALF ADDER:
+![Screenshot 2023-12-23 052818](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/2527e78b-0df8-4699-90a3-d06aebd6791b)
+ ### FULL ADDER:
+ ![Screenshot 2023-12-23 052837](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/cdea493e-e3a7-4563-b9bd-eecaab774870)
 
+### RTL
+ ### HALF ADDER:
+ ![Screenshot 2023-12-23 053018](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/d78e86c4-660a-4869-9324-94b097572cf8)
+
+ ### FULL ADDER:
+ ![Screenshot 2023-12-23 053038](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/f6066b02-93df-41e7-937b-876c694e03af)
+
+### TIMING DIAGRAM
+### HALF ADDER:
+![Screenshot 2023-12-23 053226](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/1b03dcc5-f3ea-4a0e-a9b9-4ce9535549f7)
+
+### FULL ADDER:
+ ![Screenshot 2023-12-23 053239](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/ea27b0da-d26d-48ba-a0be-6e0f99b22460)
 
 ### TRUTH TABLE 
+### HALF ADDER:
+![Screenshot 2023-12-23 053331](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/c683c93a-01a4-430f-85a7-8c0eb4036fd1)
+
+### FULL ADDER:
+![Screenshot 2023-12-23 053339](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/15dc0525-f9c3-4429-a5a5-53dc6a0a4dc5)
 
 ### Result:
+Thus the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
