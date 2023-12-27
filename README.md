@@ -48,28 +48,29 @@ RTL realization
  ### HALF ADDER:
 ![Screenshot 2023-12-23 052818](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/2527e78b-0df8-4699-90a3-d06aebd6791b)
  ### FULL ADDER:
- ![Screenshot 2023-12-23 052837](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/cdea493e-e3a7-4563-b9bd-eecaab774870)
+ ![Screenshot 2023-12-27 102618](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/36689b1b-5686-4462-a1d9-ab93d328b0a6)
 
 ### RTL
  ### HALF ADDER:
- ![Screenshot 2023-12-23 053018](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/d78e86c4-660a-4869-9324-94b097572cf8)
+![Screenshot 2023-12-27 102632](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/8f9fc27a-8632-41bf-a809-aa5ca9977cb9)
 
  ### FULL ADDER:
- ![Screenshot 2023-12-23 053038](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/f6066b02-93df-41e7-937b-876c694e03af)
+
+![Screenshot 2023-12-27 102642](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/7675d7dd-d09c-4ebc-bc84-93873b589b23)
 
 ### TIMING DIAGRAM
 ### HALF ADDER:
-![Screenshot 2023-12-23 053226](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/1b03dcc5-f3ea-4a0e-a9b9-4ce9535549f7)
+![Screenshot 2023-12-27 102700](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/aea4f86a-6eea-442c-8010-6acb8ed5faf6)
 
 ### FULL ADDER:
- ![Screenshot 2023-12-23 053239](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/ea27b0da-d26d-48ba-a0be-6e0f99b22460)
-
+![Screenshot 2023-12-27 102711](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/be5e94ff-7acb-49f6-bfd5-6287efdfb308)
+ 
 ### TRUTH TABLE 
 ### HALF ADDER:
 ![Screenshot 2023-12-23 053331](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/c683c93a-01a4-430f-85a7-8c0eb4036fd1)
 
 ### FULL ADDER:
-![Screenshot 2023-12-23 053339](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/15dc0525-f9c3-4429-a5a5-53dc6a0a4dc5)
+![Screenshot 2023-12-27 102721](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/a87f410d-2042-417e-81ff-927a9f77edb3)
 
 ### Result:
 Thus the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
