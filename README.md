@@ -44,13 +44,13 @@ RegisterNumber:23007752
 Logic symbol & Truthtable
 RTL realization
 
-### CODE:
+# CODE:
  ### HALF ADDER:
 ![Screenshot 2023-12-23 052818](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/2527e78b-0df8-4699-90a3-d06aebd6791b)
  ### FULL ADDER:
  ![Screenshot 2023-12-27 102618](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/36689b1b-5686-4462-a1d9-ab93d328b0a6)
 
-### RTL
+# RTL
  ### HALF ADDER:
 ![Screenshot 2023-12-27 102632](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/8f9fc27a-8632-41bf-a809-aa5ca9977cb9)
 
@@ -58,14 +58,14 @@ RTL realization
 
 ![Screenshot 2023-12-27 102642](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/7675d7dd-d09c-4ebc-bc84-93873b589b23)
 
-### TIMING DIAGRAM
+# TIMING DIAGRAM
 ### HALF ADDER:
 ![Screenshot 2023-12-27 102700](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/aea4f86a-6eea-442c-8010-6acb8ed5faf6)
 
 ### FULL ADDER:
 ![Screenshot 2023-12-27 102711](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/be5e94ff-7acb-49f6-bfd5-6287efdfb308)
  
-### TRUTH TABLE 
+# TRUTH TABLE 
 ### HALF ADDER:
 ![Screenshot 2023-12-23 053331](https://github.com/RAGULRAAJAN/DE.EXP.03/assets/147473144/c683c93a-01a4-430f-85a7-8c0eb4036fd1)
 
